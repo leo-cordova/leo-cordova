@@ -1,5 +1,5 @@
 # ¡Hola! Soy Leonel Cordova Abad 👋
-### 🚀 Especialista Backend Java | Spring Boot 3 |
+### 🚀 Desarrollador Backend Java | Spring Boot |
 
 Desarrollador enfocado en construir APIs REST robustas, seguras y escalables. Recientemente graduado del programa **Oracle Next Education (ONE)** con +1400 actividades completadas.
 
